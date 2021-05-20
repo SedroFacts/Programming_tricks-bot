@@ -60,6 +60,13 @@ switch($text)
     sendmsg($msgID, "Bot identified");
     sendmsg($msgID, "Hello member!");
     break;
+    case"/help":
+    sendmsg($msgID, "Please use this format $name : /help {LANGUAGE CODE} + {QUESTION} or help {LANGUAGE CODE} + {QUESTION} . Need help $name ? Click: error");
+    break;
+    case"/help {LANGUAGE CODE} + {QUESTION}":
+    case"help {LANGUAGE CODE} + {QUESTION}":
+    sendmsg($msgID, "Message sent to the team");
+    break;
 }
 
 
