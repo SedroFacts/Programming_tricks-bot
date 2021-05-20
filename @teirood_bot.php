@@ -49,7 +49,7 @@ switch($text)
     sendmsg($msgID, "Trivion bb");
     sendmsg($msgID, "The()Brackets(hour)");
     sendmsg($msgID, "GitHub;");
-    sendmsg($msgID, "Senhas-t");
+    sendmsg($msgID, "https://github.com/Senhas-t/Programming_tricks-bot.git");
     sendmsg($msgID, "Twitter;");
     sendmsg($msgID, "@senhasd");
     break;
