@@ -52,6 +52,10 @@ switch($text)
     sendmsg($msgID, "https://github.com/Senhas-t/Programming_tricks-bot.git");
     sendmsg($msgID, "Twitter;");
     sendmsg($msgID, "@senhasd");
+    sendmsg($msgID, "Sedro Inc.");
+    sendmsg($msgID, "t.me/sedroinc");
+    sendmsg($msgID, "t.me/sedrofacts");
+    sendmsg($msgID, "t.me/sedrocoders");
     break;
     case"0147":
     sendmsg($msgID, "(Checking!)");
